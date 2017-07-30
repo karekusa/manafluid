@@ -1,0 +1,16 @@
+
+FAILURE: Build failed with an exception.
+
+* Where:
+Build file 'E:\modding\forge1614\build.gradle' line: 45
+
+* What went wrong:
+A problem occurred evaluating root project 'forge1614'.
+> Could not find method complile() for arguments [directory 'libs'] on root project 'forge1614'.
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 1.264 secs

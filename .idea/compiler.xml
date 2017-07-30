@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="fluidmana_api" target="1.6" />
+      <module name="fluidmana_main" target="1.6" />
+      <module name="fluidmana_test" target="1.6" />
       <module name="forge1614_api" target="1.6" />
       <module name="forge1614_main" target="1.6" />
       <module name="forge1614_test" target="1.6" />

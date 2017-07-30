@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fluidmana/fluidmana.iml" filepath="$PROJECT_DIR$/.idea/modules/fluidmana/fluidmana.iml" group="fluidmana" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fluidmana/fluidmana_api.iml" filepath="$PROJECT_DIR$/.idea/modules/fluidmana/fluidmana_api.iml" group="fluidmana" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fluidmana/fluidmana_main.iml" filepath="$PROJECT_DIR$/.idea/modules/fluidmana/fluidmana_main.iml" group="fluidmana" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fluidmana/fluidmana_test.iml" filepath="$PROJECT_DIR$/.idea/modules/fluidmana/fluidmana_test.iml" group="fluidmana" />
       <module fileurl="file://$PROJECT_DIR$/forge1614.iml" filepath="$PROJECT_DIR$/forge1614.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge1614_api.iml" filepath="$PROJECT_DIR$/.idea/modules/forge1614_api.iml" group="forge1614" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge1614_main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge1614_main.iml" group="forge1614" />

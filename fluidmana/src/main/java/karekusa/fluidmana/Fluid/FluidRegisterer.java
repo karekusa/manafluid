@@ -1,6 +1,7 @@
 package karekusa.fluidmana.Fluid;
 
 import net.minecraft.item.EnumRarity;
+import net.minecraft.util.IIcon;
 import net.minecraftforge.fluids.Fluid;
 import net.minecraftforge.fluids.FluidRegistry;
 
